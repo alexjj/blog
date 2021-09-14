@@ -4,8 +4,21 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-[[!inline pages="page(./posts/*) and !*/Discussion" show="10"
+## Welcome to my weblog of miscellany
+
+
+Quiet internet person. Likes computers, digital and film photography, and very fond of tea.
+
+[[!img me.jpg align="center" size="250x" alt=""]]
+<br>
+
+
+
+
+[[!inline pages="page(./posts/*) and !*/Discussion" show="5"
 actions=yes rootpage="posts"]]
 
 
-This blog is powered by [ikiwiki](http://ikiwiki.info).
+
+
+
