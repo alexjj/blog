@@ -1,2 +1,3 @@
-This is the first post to this example blog. To add new posts, just add
-files to the posts/ subdirectory, or use the web form.
+After endless timewasting I decided I should use ikiwiki for my blog. It pretty much has everything I want, and requires minimal effort to use. I think there's a few configuration things left to do on the site but once they're done it should be good to go. There aren't many premade themes available. I quite like this simple styling using a CSS I found. Maybe tweak it and templates overtime but it's fine for now. 
+
+It's also a wiki, although probably keep most of my wiki content on tiddlywiki over at [fondoftea.com](https://fondoftea.com) ☕.
