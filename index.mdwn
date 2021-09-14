@@ -15,8 +15,7 @@ Quiet internet person. Likes computers, digital and film photography, and very f
 
 
 
-[[!inline pages="page(./posts/*) and !*/Discussion" show="5"
-actions=yes rootpage="posts"]]
+[[!inline pages="page(./posts/*) and !*/Discussion" show="5" rootpage="posts"]]
 
 
 
