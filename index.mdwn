@@ -16,6 +16,7 @@ Here's my [[setup|Setup]] and a list of [[books|Book List]] I've read.
 
 
 ### Blog posts
+<br>
 
 [[!inline pages="page(./posts/*) and !*/Discussion" show="5" rootpage="posts"]]
 
