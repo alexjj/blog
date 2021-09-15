@@ -4,7 +4,7 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-## Welcome to my weblog of miscellany
+## 👋 Welcome to my weblog of miscellany
 
 
 Quiet internet person. Likes computers, digital and film photography, and very fond of tea.
@@ -12,8 +12,10 @@ Quiet internet person. Likes computers, digital and film photography, and very f
 [[!img me.jpg align="center" size="300x" alt=""]]
 <br>
 
+Here's my [[setup|Setup]] and a list of [[books|Book List]] I've read.
 
 
+### Blog posts
 
 [[!inline pages="page(./posts/*) and !*/Discussion" show="5" rootpage="posts"]]
 
