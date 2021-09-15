@@ -35,21 +35,21 @@ Along with the computer I also use:
 ### Digital
 
 * Fuji X-T2
-** 23mm f/1.4
-** 35mm f/2
-** 16-80 f/4
-** 50-230mm XC zoom
+    * 23mm f/1.4
+    * 35mm f/2
+    * 16-80 f/4
+    * 50-230mm XC zoom
 * X100F
 
 ### Film
 
 * Minolta X-700
 * Minolta SRT-100X
-** 50mm f/1.8
-** 135mm f/2.8
+    * 50mm f/1.8
+    * 135mm f/2.8
 * Ricohflex TLR
 * Leica M2
-** Voigtlander 35mm f/1.4 Nokton II MC
+    * Voigtlander 35mm f/1.4 Nokton II MC
 
 Hedeco Lime One light meter.
 
@@ -57,9 +57,9 @@ Hedeco Lime One light meter.
 
 * Olivetti Lettera 32 typewriter, circa 1966
 * Leuchtturm1917 A5 notebooks
-** either dots or just blank
-** Currently using 80 gsm but might try the higher ones next
-** Predominately for work only, for a semi-bullet journal
+    * either dots or just blank
+    * Currently using 80 gsm but might try the higher ones next
+    * Predominately for work only, for a semi-bullet journal
 * Random field notes I bought ages ago as home scratch pad on desk
 * Random waterman rollerball I got free at work many years ago
 * Mont Blanc Meisterstück fountain pen
