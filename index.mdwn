@@ -12,7 +12,7 @@ Quiet internet person. Likes computers, digital and film photography, and very f
 [[!img me.jpg align="center" size="300x" alt=""]]
 <br>
 
-Here's my [[setup|Setup]] and a list of [[books|Book List]] I've read.
+Here's my [[setup|Setup]] and a list of [[books|book list]] I've read.
 
 
 [[!inline pages="page(./posts/*) and !*/Discussion" show="5" rootpage="posts"]]
