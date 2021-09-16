@@ -156,6 +156,12 @@ hr { border: 0; height: 1px; color: #333; margin: 10px 0; background-color: #666
 	color: #ccc;
 }
 
+
+#content { 
+	text-align: justify;
+	overflow-x: auto;
+}
+
 blockquote {
 	font-style: italic;
 }
@@ -191,4 +197,12 @@ textarea {
 
 input#searchbox {
 	background: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
