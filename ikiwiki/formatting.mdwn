@@ -107,6 +107,6 @@ you use the following additional features:
 
 ### Tagging posts
 
-```
-[[!tag  photography]]
-```
+
+    [[!tag  photography]]
+
