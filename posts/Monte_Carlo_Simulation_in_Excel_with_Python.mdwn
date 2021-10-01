@@ -2,6 +2,8 @@ There are quite a few blogs that show you how to do Monte Carlo simulations usin
 
 Maybe if I'd searched more I'd find one but instead I just got on with it. I also used to have some software at work that did this for me, it was an add-on to Excel but work stopped paying for it and I found it hard to justify it (it's an Oracle product so no doubt pricey). Plus I always love an excuse to try and learn a bit more python.
 
+[[!img dice.jpg align="" size="" alt="" caption="randomness"]]
+
 ## Background
 
 If you don't know, Monte Carlo simulation is a way to capture uncertainity. If a friend is driving to your house, 50 miles away, and they travel at 50 mph it'll take then one hour right? Well, not always. Maybe they are keen on the gas and drive faster, or maybe there's an accident and they get stuck. You just never know. So you could use monte carlo to say that their average journey speed could be from 40-60 mph, then you randomly sample many many times from that range and work out the time it takes. Do it 10,000 times and you then have 10,000 results that you can draw estimates from, e.g. the average time. You can also plot the results and show the whole range. 
@@ -105,5 +107,8 @@ So pretty straight forward to make your deterministic Excel model into a fully p
 I think probabilistic models should be used more often. Very rarely is it that everything is always known exactly and whilst your calculation isn't wrong, it's only one possible outcome. Better to give your decision maker (or yourself) a range of outcomes than just one. Tell them "they're buying the curve". Then hope the final result actually lands on the curve 😅
 
 [[!tag  python]]
+
+
+
 
 
