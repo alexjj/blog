@@ -1,0 +1,45 @@
+I've made a few sites over the years. The past ~10 have been mainly a blog (with virtually no content 😅) but before that I had a few other sites. 
+
+I was particularly keen at making sites around 2000, whilst I was in senior school. Going to see what I can find in the Internet Archive for screenshots but for now here's what I remember:
+
+
+### Romsnet
+
+Oh so illegal...it was an emulator and roms website. I can't remember if I had a domain or not, certainly not romsnet.com. It was probably hosted on our ISPs web hosting. I don't think I actually had any roms, the whole site was just hotlinks to other roms websites but I made a big list of them all. It was super-cheesy 1999/2000 web design with banners, spinny gifs, visitor counter, and think I was playing some Final Fantasy music in the background.
+
+I remember one day being very excited as the visitor count went from 50 odd to about 10,000, it then jumped more over the next week but then I think it stopped or the counter went weird...perhaps it went weird when it hit 10,000...
+
+### Blacklotus
+
+I loved Magic: The Gathering at school...in fact I still like the idea of it now, but I don't want to invest 1,000s into paper. Anyway, I used to buy a few cards from some American guy who was selling his online and that gave me the idea of selling mine. It was a horrible effort to maintain a plain text/html table of all my cards to sell, but as a teenager I probably didn't have much else to do.
+
+
+[[!img 2000-09-28_blacklotus.png align="" size="" alt="" caption="September 2000"]]
+
+Free-online was a dial up ISP who offered a free domain name with every account! I think you just had to use their dial-up number once a year to keep your account. So a 1 minute call once a year was all that was needed. So as the proud owner of www.blacklotus.co.uk, my MtG sales site was a premium business. 
+
+I remember getting an email from some company that demanded the domain as it was the name of their company. Not sure if I replied but they didn't get it...at least not initially. Once we moved to ADSL or maybe cable, I lost the account and the domain. I don't remember if I sold any cards or not. I see the domain is now for sale.
+
+
+### GBAUK
+
+I loved the Gameboy Color and the new Gameboy Advance looked amazing. So much so that I made a website about it! Living at http://www.gbauk.cjb.net/ I put together a lovely purple themed site with my new found knowledge of html tables to make a "side bar". I remember making the logo and then doing a flashing star over it, not sure what I used to do it...part of me thinks macromedia software. I was also very proud of my acronym "Above any CD Game!" for Gameboy Advance. 
+
+[[!img gbauk.png align="" size="" alt="" caption="April 2001"]]
+
+The site was just an excuse to use Amazon associate links. I did write a few reviews but mostly the content was just lists and links. For a while I did make some money from it..maybe £100 every other month or so, which wasn't bad!
+
+I had a friend...well my dad's work colleague's partner...was making Gameboy Advance games and he leant me a pre-release console and games before it came out. That was pretty neat. I found the console relatively recently, think I sold it though. Bought my daughter a Gameboy DSi last year, was £15 used! She's not that interested in it and would rather play the Switch. My rose tinted glasses can't see the terrible graphics of the old DS/Gameboys. I have it sat on my desk as I'm "about to play it again".
+
+
+### Still living
+
+I do want to do a history tour of my main domain, as that's had a few changes over the years. For now here are a few other sites I've made, but these ones are still going:
+
+* [dfworlds](http://dfworlds.alexjj.com/) - a django powered Dwarf Fortress worlds site where people can upload world gens. My first python programming experience!
+* [df stories](https://df.alexjj.com/) - a friend and I played a game of Dwarf Fortress and wrote up stories after each year
+* I used to have a minecraft map render of our world online but that seems to have disappeared. I'd like to find the picture of our original MC world from 2010.
+
+
+
+
