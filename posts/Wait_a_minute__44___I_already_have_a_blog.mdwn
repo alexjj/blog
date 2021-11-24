@@ -1,0 +1,5 @@
+I've come to find I much prefer writing in short posts, just one or two sentences at a time during the day. I like them to be grouped under a day heading rather than having a specific title. It probably falls under the category of "pointless waffle" online but strangely I like it. The best software for this, from my perspective, has been Tiddlywiki and Drummer. 
+
+It does make me wonder about normal blogs. I've got this one and I easily get sucked in to looking at hugo themes or thinking about Ghost etc. but really all that ends up happening is I waste a whole evening looking at this stuff and then remember I don't really want it.
+
+I keep thinking of even skipping this entirely and just going all tiddlywiki. 
